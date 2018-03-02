@@ -1,0 +1,5 @@
+﻿  Snake v1.1.cpp
+c:\users\tom\source\repos\snake v1.1\snake v1.1\snake v1.1.cpp(46): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\tom\source\repos\snake v1.1\snake v1.1\snake v1.1.cpp(312): warning C4715: food: значение возвращается не при всех путях выполнения
+c:\users\tom\source\repos\snake v1.1\snake v1.1\snake v1.1.cpp(356): warning C4715: GameOver: значение возвращается не при всех путях выполнения
+  Snake v1.1.vcxproj -> C:\Users\Tom\source\repos\Snake v1.1\Debug\Snake v1.1.exe
